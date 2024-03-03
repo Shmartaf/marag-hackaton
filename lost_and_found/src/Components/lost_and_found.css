@@ -1,0 +1,14 @@
+/* src/components/LostAndFoundPage.css */
+.lost-and-found-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin-top: 50px;
+  }
+  
+  .lost-and-found-form {
+    width: 100%;
+  }
+  
